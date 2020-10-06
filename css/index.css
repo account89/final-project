@@ -122,3 +122,9 @@ body {
     background-color: navy;
     color: grey;
 }
+
+.w3-container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
